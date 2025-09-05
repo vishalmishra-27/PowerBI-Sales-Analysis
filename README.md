@@ -11,7 +11,7 @@ This project demonstrates an interactive and insightful sales dashboard develope
 - Key insights into market share, city-wise revenue distribution, and segment performance.
 
 ## Screenshots
-![Dashboard](Screenshots/Screenshot 2025-09-05 163205.png)
+![Dashboard]([Screenshots/Screenshot 2025-09-05 163205.png](https://github.com/vishalmishra-27/PowerBI-Sales-Analysis/blob/main/Screenshots/Screenshot%202025-09-05%20163205.png))
 ![Dashboard Screenshot 2](screenshots/dashboard2.jpg)  
 ![Data Model](screenshots/datamodel.jpg)  
 
