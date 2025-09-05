@@ -26,7 +26,8 @@ The data model uses a star schema connecting:
 This schema enables multi-dimensional analysis and efficient performance.
 
 ## Usage
-1. Download the Power BI Desktop file (`SalesDashboard.pbix`).
+1. Download the Power BI Desktop file [![Download](https://img.shields.io/badge/Download-Report-blue)](https://github.com/vishalmishra-27/PowerBI-Sales-Analysis/raw/refs/heads/main/VanArsdel%20Sales%20Project.pbix)
+.
 2. Open the file in Power BI Desktop to explore the interactive reports.
 3. Use slicers and filters to analyze sales trends and insights.
 
