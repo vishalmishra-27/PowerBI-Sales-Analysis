@@ -11,7 +11,7 @@ This project demonstrates an interactive and insightful sales dashboard develope
 - Key insights into market share, city-wise revenue distribution, and segment performance.
 
 ## Screenshots
-(Screenshots/Screenshot%202025-09-05%20163205.png)
+![Dashboard](Screenshots/Screenshot%202025-09-05%20163205.png)
 ![Data Model](screenshots/datamodel.jpg)
 
 ## Data Model
