@@ -12,7 +12,7 @@ This project demonstrates an interactive and insightful sales dashboard develope
 
 ## Screenshots
 ![Dashboard](Screenshots/Screenshot%202025-09-05%20163205.png)
-![Data Model](screenshots/datamodel.jpg)
+![Data Model](Screenshots/Screenshot%202025-09-05%20164332.png)
 
 ## Data Model
 The data model uses a star schema connecting:
