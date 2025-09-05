@@ -13,6 +13,11 @@ This project demonstrates an interactive and insightful sales dashboard develope
 ## Screenshots
 ### Dashboard![Dashboard](Screenshots/Screenshot%202025-09-05%20163205.png)
 ### DataModel![Data Model](Screenshots/Screenshot%202025-09-05%20164332.png)
+### Report Visuals
+![Visuals](https://github.com/vishalmishra-27/PowerBI-Sales-Analysis/blob/52ccb2409a0d71959d0e57710cd322a174ddbd16/Screenshots/Screenshot%202025-09-05%20163205.png)
+![Visuals](https://github.com/vishalmishra-27/PowerBI-Sales-Analysis/blob/52ccb2409a0d71959d0e57710cd322a174ddbd16/Screenshots/Screenshot%202025-09-05%20163354.png)
+![Visuals](https://github.com/vishalmishra-27/PowerBI-Sales-Analysis/blob/52ccb2409a0d71959d0e57710cd322a174ddbd16/Screenshots/Screenshot%202025-09-05%20163406.png)
+![Visuals](https://github.com/vishalmishra-27/PowerBI-Sales-Analysis/blob/52ccb2409a0d71959d0e57710cd322a174ddbd16/Screenshots/Screenshot%202025-09-05%20163433.png)
 
 ## Data Model
 The data model uses a star schema connecting:
